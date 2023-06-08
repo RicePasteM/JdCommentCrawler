@@ -12,10 +12,10 @@ JdCommentCrawler - 基于Hadoop与Electron的京东商品评论词云统计系�
 
 项目截图：
 
-![Alt text](https://img.codesocean.top/image/1686251172870)
+![Alt text](http://img.codesocean.top/image/1686251172870)
 
-![Alt text](https://img.codesocean.top/image/1686251236618)
+![Alt text](http://img.codesocean.top/image/1686251236618)
 
-![Alt text](https://img.codesocean.top/image/1686251106759)
+![Alt text](http://img.codesocean.top/image/1686251106759)
 
-![Alt text](https://img.codesocean.top/image/1686251174913)
+![Alt text](http://img.codesocean.top/image/1686251174913)
