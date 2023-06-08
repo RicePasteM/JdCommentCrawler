@@ -1,0 +1,2 @@
+# JdCommentCrawler
+JdCommentCrawler - 基于Hadoop与Electron的京东商品评论词云统计系统
